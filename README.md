@@ -35,15 +35,13 @@ I'm a software engineer. I'm passionate about creating and contributing to good 
 </a>
 </div>
 
-<table><tr><td valign="top" width="33%">
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
-</td><td valign="top" width="33%">
+
 
 ### Backend  
 <div align="center">  
@@ -55,7 +53,6 @@ I'm a software engineer. I'm passionate about creating and contributing to good 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 </div>
-</td><td valign="top" width="33%">
 
 ### DevOps
 <div align="center">  
@@ -67,8 +64,7 @@ I'm a software engineer. I'm passionate about creating and contributing to good 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 </div>
-</td></tr></table>  
-</br>
+
 
 #### Top Repositories
 
